@@ -418,3 +418,32 @@ body {
     margin-left: 24px;
     margin-top: 24px;
 }
+
+.number-container {
+    padding: 72px 286px;
+    background: #D3E5FE;
+}
+
+.number-container__items {
+    display: flex;
+    gap: 160px;
+    list-style: none;
+}
+
+.number-container__Heading {
+    color: #222;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.number-container__text {
+    color: #555;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 155%;
+    text-align: center;
+    margin-top: 16px;
+}
